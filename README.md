@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 - I'm a Fronted-Developer
-- I'm a flutter Developer
 - I'm a python Developer
+- I'm a ai developer
 
 
 
@@ -19,8 +19,7 @@
 > 
 > I can build website from Design to Code
 >
-> I can build App with Flutter about everything
->
+> I can build machine learning projects
 
 
    
