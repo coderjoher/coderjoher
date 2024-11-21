@@ -1,13 +1,12 @@
 ## Welcome
 
-> My name is Joher
+> My name is Jafer 
 >
 > My nationality is <b> Iraqi <b>
 
 ## 🚀 About Me
 - I'm a Fronted-Developer
 - I'm a python Developer
-- I'm a ai developer
 
 
 
@@ -26,4 +25,4 @@
 ## IF You like My Work!
 Please Contact with Me In Telegram:
   
-<a href='https://t.me/Joh2008'> @joh2008 </a>
+<a href='https://t.me/jafer_ni'> @jafer_ni </a>
