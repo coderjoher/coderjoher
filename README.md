@@ -1,28 +1,29 @@
-## Welcome
+# Welcome everyone 🙌
+> Welcome to my account in Github, interest in my opensource project.
 
-> My name is Jafer 
+
+## 💻 About Me
+> Jafer Nouri, Full-Stack developer, Frontend Specialist.
 >
-> My nationality is <b> Iraqi <b>
+> My goal is to change something to better in the society and helping people to make that as well.
 
-## 🚀 About Me
-- I'm a Fronted-Developer
-- I'm a python Developer
+## 💼 Career
+Freelancing --> *Webe.iq* company for programming solutions --> ??(🔥) 
 
+## 🚀 Education
+Department of Big Data -- AI college -- University of Baghdad   
+*Stage 1*
 
+## ☎ Contact me if you want to work, or take a look:
 
-## FAQ
+Telegram: <a href='https://t.me/jafer_ni'> @jafer_ni </a>
+Instagram: <a href='https://instagram.com/jafer_ni'> @jafer_ni </a>
+Linkedin: <a href='https://www.linkedin.com/in/jaferni/'> @jaferni </a>
 
-#### What I Can Do ?
+## To see my work, check my website:
+<a href='http://jaferni.vercel.app/'> Jafer Nouri </a>
 
-> I can do everything with python
-> 
-> I can build website from Design to Code
->
-> I can build machine learning projects
 
 
    
-## IF You like My Work!
-Please Contact with Me In Telegram:
-  
-<a href='https://t.me/jafer_ni'> @jafer_ni </a>
+## 🙏 Thank you very much to reach here
