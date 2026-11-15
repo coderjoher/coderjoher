@@ -1,17 +1,17 @@
 # Welcome everyone 🙌
-> Welcome to my account in Github, interest in my opensource project.
+## Welcome to my account in Github, interest in my opensource project.
 
 
 ## 💻 About Me
-> Jafer Nouri, Full-Stack developer, Frontend Specialist.
->
-> My goal is to change something to better in the society and helping people to make that as well.
+### Jafer Nouri, Full-Stack developer, Frontend Specialist.
+
+### My goal is to change something to better in the society and helping people to make that as well.
 
 ## 💼 Career
-Freelancing --> *Webe.iq* company for programming solutions --> ??(🔥) 
+### Freelancing --> *Webe.iq* company for programming solutions --> ??(🔥) 
 
 ## 🚀 Education
-Department of Big Data -- AI college -- University of Baghdad   
+### Department of Big Data -- AI college -- University of Baghdad   
 *Stage 1*
 
 ## ☎ Contact me if you want to work, or take a look:
